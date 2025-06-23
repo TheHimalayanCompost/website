@@ -499,6 +499,11 @@ section {
     color: #007bff;
 }
 
+.swiper-testimonial {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 #polyhouse-community {
     background: #e8f5e9;
 }
